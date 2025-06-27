@@ -1,3 +1,4 @@
+
 # 📦 Solving Inventory Inefficiencies Using SQL
 
 ## 🧾 Project Overview
@@ -89,4 +90,26 @@ From the analysis, the following insights were gathered:
 ---
 
 ## 📁 File Structure
+
+```
+.
+├── Documentation.pdf          # ER diagram and schema documentation
+├── ExecutiveSummary.pdf       # Summary of insights and business recommendations
+├── Queries.sql                # SQL queries for analysis and KPIs
+├── Dashboard.pbix             # Power BI dashboard (interactive visualizations)
+├── README.md                  # This file
+```
+
+---
+
+## 🚀 Business Impact
+
+By implementing this solution, Urban Retail Co. can:
+
+- Reduce excess inventory and free up working capital
+- Improve stock availability, enhancing customer satisfaction
+- Make data-driven procurement and promotion decisions
+- Strengthen supplier performance tracking and accountability
+
+---
 
